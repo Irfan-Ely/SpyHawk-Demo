@@ -5,7 +5,7 @@
 - SpyHawk is computer monitoring software designed to monitor and document various computer system activities.
 - The software may record keystrokes, screenshots, camera images, clipboard contents, and storage drives and services etc.
 - Aiming to offer a monitoring solution that can be used for many purposes such as parental control, employee monitoring, or security monitoring.
-- SpyHawk will run in stealth mode,which keeps it from interfering with the user's activities by quietly operating in the background.
+- SpyHawk run in stealth mode,which keeps it from interfering with the user's activities by quietly operating in the background.
 
 <h2>Problem</h2>
 
